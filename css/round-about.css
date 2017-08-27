@@ -13,3 +13,7 @@ body {
         padding-top: 56px;
     }
 }
+
+.bg-dark{
+	background-color:#ff3d25 !important;
+}
